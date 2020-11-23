@@ -1,4 +1,5 @@
-### Hi there 👋
+![Home](https://github.com/Tarun0607/Tarun0607/blob/main/tarun.png)
+### Hey there, This is Tarun!! 👋
 
 <!--
 **Tarun0607/Tarun0607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
