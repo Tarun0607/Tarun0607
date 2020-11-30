@@ -14,7 +14,17 @@ Here are some ideas to get you started:
 <br>
 <a href = "https://tarun0607.github.io/my-portfolio/"> Wanna See my Portfolio? Click here </a> 
 
-### My Github Stats
-![Tarun's github stats](https://github-readme-stats.vercel.app/api?username=Tarun0607&count_private=true)
+<details open>
+ <summary><b>My Github Stats</b>: </summary>
 <br>
-![Taruns's views](https://komarev.com/ghpvc/?username=Tarun0607)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Tarun0607&show_icons=true&theme=dracula">
+</p>
+ <img src = "https://komarev.com/ghpvc/?username=Tarun0607">  
+ <p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun0607&hide=css,java,html&theme=dracula">
+  </p>
+</details>
+
+
+
